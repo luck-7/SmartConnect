@@ -125,8 +125,7 @@ The frontend will start on `http://localhost:3000`
 2. Update `SmartHealthConnect-Backend/src/main/resources/application.properties` with your database credentials:
    ```properties
    spring.datasource.url=jdbc:postgresql://localhost:5432/smart_healthconnect
-   spring.datasource.username=your_username
-   spring.datasource.password=your_password
+ 
    ```
 3. Run the application - tables will be created automatically using JPA
 
