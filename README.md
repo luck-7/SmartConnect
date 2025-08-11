@@ -58,16 +58,16 @@ A comprehensive digital healthcare platform built with React.js and Spring Boot,
 ## 📸 Screenshots
 
 ### Patient Dashboard
-![Patient Dashboard](docs/screenshots/patient-dashboard.png)
+
 
 ### Doctor Dashboard
-![Doctor Dashboard](docs/screenshots/doctor-dashboard.png)
+
 
 ### Admin Panel
-![Admin Panel](docs/screenshots/admin-panel.png)
+
 
 ### Symptom Checker
-![Symptom Checker](docs/screenshots/symptom-checker.png)
+
 
 ## ⚡ Quick Start
 
