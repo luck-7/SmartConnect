@@ -2,11 +2,6 @@
 
 A comprehensive digital healthcare platform built with React.js and Spring Boot, offering secure medical record management, real-time communication, and AI-powered symptom checking for modern healthcare delivery.
 
-![Healthcare Platform](https://img.shields.io/badge/Healthcare-Platform-blue)
-![React](https://img.shields.io/badge/React-18.2.0-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Latest-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 🎯 Features
 
@@ -193,8 +188,7 @@ Update `SmartHealthConnect-Backend/src/main/resources/application.properties`:
 ```properties
 # Database Configuration
 spring.datasource.url=jdbc:postgresql://localhost:5432/smart_healthconnect
-spring.datasource.username=your_username
-spring.datasource.password=your_password
+
 
 # JPA Configuration
 spring.jpa.hibernate.ddl-auto=update
@@ -247,25 +241,8 @@ cd frontend
 npm test
 ```
 
-## 🚀 Deployment
 
-### Docker Deployment (Optional)
-```bash
-# Build and run with Docker Compose
-docker-compose up --build
-```
 
-### Production Build
-```bash
-# Frontend production build
-cd frontend
-npm run build
-
-# Backend JAR build
-cd SmartHealthConnect-Backend
-mvn clean package
-java -jar target/smart-health-connect-0.0.1-SNAPSHOT.jar
-```
 
 ## 🤝 Contributing
 1. Fork the repository
