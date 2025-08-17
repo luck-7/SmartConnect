@@ -57,16 +57,92 @@ A comprehensive digital healthcare platform built with React.js and Spring Boot,
 
 ## 📸 Screenshots
 
+### SmartConnect
+
+
+
+<img width="1334" height="549" alt="Screenshot 2025-08-17 113842" src="https://github.com/user-attachments/assets/882d3b6e-8ba1-41f1-a30d-05ead26b442c" />
+
+
+
+
+
+<img width="1331" height="558" alt="Screenshot 2025-08-17 113758" src="https://github.com/user-attachments/assets/0185e9f1-a90b-4f47-a704-26a7c2504b63" />
+
+
+
+<img width="1340" height="689" alt="Screenshot 2025-08-17 113818" src="https://github.com/user-attachments/assets/964f6f6e-eb35-424b-8139-fd52bcc24705" />
+
+
+
+### Registration Page
+
+
+
+<img width="1345" height="693" alt="Screenshot 2025-08-17 113917" src="https://github.com/user-attachments/assets/e8aaf61d-8490-4930-9c86-3c53e6f72989" />
+
+
+
+
+
+### Login Page
+
+
+<img width="1338" height="690" alt="Screenshot 2025-08-17 113934" src="https://github.com/user-attachments/assets/3d77afc0-a94b-47f1-a304-35c97d3f9b06" />
+
+
+
+
+
+
+
 ### Patient Dashboard
+
+
+<img width="1355" height="696" alt="Screenshot 2025-08-17 114113" src="https://github.com/user-attachments/assets/eb259abd-046f-4980-ac65-4a36c49a6078" />
+
+<img width="1304" height="688" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/7fc86b25-9a1a-4afd-a73b-27a28f93bab3" />
+
+
+
+<img width="1333" height="675" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/a7303477-59d4-43ee-b5ba-ed73bfce48bb" />
+
 
 
 ### Doctor Dashboard
 
 
+
+<img width="1347" height="677" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/37487e0c-4341-489f-8aae-87714d0b5179" />
+
+
+
+
+<img width="1339" height="692" alt="Screenshot 2025-08-17 114736" src="https://github.com/user-attachments/assets/5d3a953d-a81e-4d40-b8f6-610f78ed9bf2" />
+
+
+
 ### Admin Panel
+
+<img width="1353" height="697" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/14ad24a2-2b00-407d-bdc4-ec4e8a87cc03" />
+
+
+
+
 
 
 ### Symptom Checker
+
+
+<img width="1360" height="691" alt="Screenshot 2025-08-17 114258" src="https://github.com/user-attachments/assets/0f14566c-be9f-4b5d-a18d-f55f2789fdf0" />
+
+
+
+
+<img width="1366" height="656" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/3d108b9e-ab11-4629-843a-1c83d0642381" />
+
+
+
 
 
 ## ⚡ Quick Start
